@@ -1,0 +1,13 @@
+['CAVE_ch166_expand','KAIST1_ch166','KAIST2_ch166','NTIRE_ch166_expand']
+CAVE_ch166_expand shape (1024, 1024, 31)
+
+kaist1_0005_0.npy shape (788, 1024, 31)
+kaist1_0005_1.npy shape (788, 1024, 31)
+kaist1_0005_2.npy shape (788, 1024, 31)
+kaist1_0021_0.npy shape (1024, 856, 31)
+kaist1_0021_1.npy shape (1024, 856, 31)
+Other KAIST1_ch166 shape (1024, 1024, 31)
+
+KAIST_ch166 shape (1024, 1024, 31)
+
+NTIRE_ch166 shape (964, 1024, 31)
